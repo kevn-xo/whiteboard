@@ -28,8 +28,5 @@ A simple whiteboard, built with [paper.js](https://github.com/paperjs/paper.js),
 | Draw horizontal line                                     | A + S                | Draw    |
 | Draw vertical line                                       | A + D                | Draw    |
 
-# ToDo
-See the [TODO.md](TODO.md) for a list of proposed features and some known issues.
-
-# 
-- [Whiteboard](https://wggb.github.io/whiteboard/)
+# Author
+https://github.com/wggb
