@@ -1,6 +1,6 @@
 # Whiteboard
 
-A simple whiteboard, built with [paper.js](https://github.com/paperjs/paper.js), [jquery](https://github.com/jquery/jquery) and [bootstrap](https://github.com/twbs/bootstrap).
+A simple whiteboard.
 
 # Shortcuts
 | Result                                                   | Shortcut             | Mode    |
