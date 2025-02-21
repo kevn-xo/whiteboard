@@ -27,6 +27,3 @@ A simple whiteboard.
 | Draw straight line                                       | A                    | Draw    |
 | Draw horizontal line                                     | A + S                | Draw    |
 | Draw vertical line                                       | A + D                | Draw    |
-
-# Author
-https://github.com/wggb
