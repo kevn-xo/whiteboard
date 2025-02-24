@@ -17,13 +17,3 @@ A very simple whiteboard, built with [paper.js](https://github.com/paperjs/paper
 | Change mode to Draw                                      | Space + 2            | Any     |
 | Change mode to Delete                                    | Space + 3            | Any     |
 | Change mode to Text                                      | Space + 4            | Any     |
-| Select single item                                       | S                    | Move    |
-| Horizontal move                                          | Q                    | Move    |
-| Vertical move                                            | W                    | Move    |
-| Rotate selected items                                    | R                    | Move    |
-| Draw rectangle                                           | Q                    | Draw    |
-| Draw circle (1:1)                                        | W                    | Draw    |
-| Draw circle                                              | W + E                | Draw    |
-| Draw straight line                                       | A                    | Draw    |
-| Draw horizontal line                                     | A + S                | Draw    |
-| Draw vertical line                                       | A + D                | Draw    |
